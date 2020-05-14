@@ -1,6 +1,6 @@
 {
     "name": "gitbook-plugin-open-graph",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "description": "Adds open graph and twitter share meta tags to gitbook",
     "engines": {
         "gitbook": ">1.x.x"
